@@ -1,6 +1,2 @@
 out
 *.jar
-
-# idea
-.idea
-*.iml
