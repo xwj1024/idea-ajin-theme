@@ -1,8 +1,8 @@
 <svg viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg">
     <defs>
         <linearGradient id="gradient" x1="0" y1="0" x2="0" y2="1">
-            <stop stop-color="#9D4CFF" offset="0"/>
-            <stop stop-color="#39D3C3" offset="1"/>
+            <stop stop-color="#8EC73A" offset="0"/>
+            <stop stop-color="#2FA7D3" offset="1"/>
         </linearGradient>
     </defs>
     <g>
@@ -10,12 +10,12 @@
               x="0" y="0" width="40" height="40"
               rx="3" ry="3"/>
         <text x="5" y="19"
-              font-family="Arial, Helvetica, sans-serif"
-              font-size="15px"
-              letter-spacing="1"
+              font-family="Xingkai SC, Helvetica, sans-serif"
+              font-size="12px"
+              letter-spacing="0.1"
               fill="#FFFFFF">
-            <tspan>Ajin</tspan>
-            <tspan x="6" y="28">_</tspan>
+            <tspan x="5" y="15">Ajin</tspan>
+            <tspan x="5" y="30">Theme</tspan>
         </text>
     </g>
 </svg>
