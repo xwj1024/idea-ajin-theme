@@ -2,7 +2,7 @@
   "name": "Ajin Theme",
   "dark": true,
   "author": "Ajin",
-  "editorScheme": "/ajin-theme.xml",
+  "editorScheme": "/ajin-scheme.xml",
   "colors": {
     "bg": "#2b2b2b",
     "second": "#4a4d4f",

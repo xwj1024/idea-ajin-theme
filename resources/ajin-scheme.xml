@@ -1,4 +1,4 @@
-<scheme name="Ajin Theme" version="142" parent_scheme="Darcula">
+<scheme name="Ajin Scheme" version="142" parent_scheme="Darcula">
     <colors>
         <option name="ADDED_LINES_COLOR" value="96be78"/>
         <option name="ANNOTATIONS_COLOR" value="aab4c8"/>
