@@ -1,8 +1,4 @@
 <scheme name="Ajin Theme" version="142" parent_scheme="Default">
-    <option name="FONT_SCALE" value="1.0"/>
-    <option name="CONSOLE_FONT_NAME" value="Menlo"/>
-    <option name="CONSOLE_FONT_SIZE" value="14"/>
-    <option name="CONSOLE_LINE_SPACING" value="1.1"/>
     <colors>
         <option name="ADDED_LINES_COLOR" value="79740e"/>
         <option name="ANNOTATIONS_COLOR" value="928374"/>
@@ -636,7 +632,6 @@
                 <option name="FONT_TYPE" value="2"/>
             </value>
         </option>
-        <option name="LESS_VARIABLE" baseAttributes="DEFAULT_INSTANCE_FIELD"/>
         <option name="LOG_ERROR_OUTPUT">
             <value>
                 <option name="FOREGROUND" value="fb4934"/>
@@ -951,7 +946,7 @@
         </option>
         <option name="TODO_DEFAULT_ATTRIBUTES">
             <value>
-                <option name="FOREGROUND" value="b16286"/>
+                <option name="FOREGROUND" value="ec7725"/>
                 <option name="FONT_TYPE" value="3"/>
                 <option name="ERROR_STRIPE_COLOR" value="a74c0"/>
             </value>
@@ -1018,4 +1013,8 @@
             </value>
         </option>
     </attributes>
+    <option name="FONT_SCALE" value="1.0"/>
+    <option name="CONSOLE_FONT_NAME" value="JetBrains Mono"/>
+    <option name="CONSOLE_FONT_SIZE" value="14"/>
+    <option name="CONSOLE_LINE_SPACING" value="1.1"/>
 </scheme>
