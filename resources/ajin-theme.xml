@@ -1374,6 +1374,7 @@
     <option name="TODO_DEFAULT_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="e88c00" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="TS.MODULE_NAME">
