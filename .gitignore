@@ -1,2 +1,9 @@
 out
 *.jar
+
+# mac
+.DS_Store
+
+# idea
+.idea/workspace.xml
+.idea/git_toolbox_prj.xml
