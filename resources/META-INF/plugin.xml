@@ -1,12 +1,12 @@
 <!-- Plugin Configuration File. Read more: https://plugins.jetbrains.com/docs/intellij/plugin-configuration-file.html -->
 <idea-plugin>
     <!-- Unique identifier of the plugin. It should be FQN. It cannot be changed between the plugin versions. -->
-    <id>xwj1024.ajin-idea-theme</id>
+    <id>xwj1024.ajin-theme</id>
     <version>0.0.1</version>
 
     <!-- Public plugin name should be written in Title Case.
          Guidelines: https://plugins.jetbrains.com/docs/marketplace/plugin-overview-page.html#plugin-name -->
-    <name>Ajin Idea Theme</name>
+    <name>Ajin Theme</name>
     <category>UI</category>
 
     <!-- A displayed Vendor name or Organization ID displayed on the Plugins Page. -->
@@ -18,7 +18,7 @@
          Simple HTML elements (text formatting, paragraphs, and lists) can be added inside of <![CDATA[ ]]> tag.
          Guidelines: https://plugins.jetbrains.com/docs/marketplace/plugin-overview-page.html#plugin-description -->
     <description><![CDATA[
-    Ajin Idea Theme.<br>
+    Ajin Theme.<br>
     just for myself theme here.<br>
   ]]></description>
 
@@ -33,6 +33,6 @@
     <depends>com.intellij.modules.platform</depends>
 
     <extensions defaultExtensionNs="com.intellij">
-        <themeProvider id="xwj1024.ajin-idea-theme" path="/ajin-idea-theme.theme.json"/>
+        <themeProvider id="xwj1024.ajin-theme" path="/ajin-theme.theme.json"/>
     </extensions>
 </idea-plugin>

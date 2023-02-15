@@ -1,8 +1,8 @@
 {
-  "name": "Ajin Idea Theme",
+  "name": "Ajin Theme",
   "dark": true,
   "author": "Ajin",
-  "editorScheme": "/ajin-idea-theme.xml",
+  "editorScheme": "/ajin-theme.xml",
   "colors": {
     "bg0sh": "#17191a",
     "bg0h": "#1D2021",
