@@ -7,7 +7,7 @@
     </defs>
     <g>
         <rect fill="url(#gradient)"
-              x="0" y="0" width="40" height="40"
+              x="0" y="0" width="36" height="36"
               rx="3" ry="3"/>
         <text x="5" y="19"
               font-family="Xingkai SC, Helvetica, sans-serif"
