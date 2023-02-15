@@ -12,16 +12,14 @@
     <!-- A displayed Vendor name or Organization ID displayed on the Plugins Page. -->
     <vendor>Ajin</vendor>
 
-    <idea-version since-build="221" until-build="231.*"/>
+    <idea-version since-build="201" until-build="231.*"/>
 
     <!-- Description of the plugin displayed on the Plugin Page and IDE Plugin Manager.
          Simple HTML elements (text formatting, paragraphs, and lists) can be added inside of <![CDATA[ ]]> tag.
          Guidelines: https://plugins.jetbrains.com/docs/marketplace/plugin-overview-page.html#plugin-description -->
     <description><![CDATA[
     Ajin Theme.<br>
-    Just for myself theme here.<br>
-    Help me coding better.<br>
-    A true master always has the heart of an apprentice.<br>
+    Coding makes the world a better place.<br>
   ]]></description>
 
     <!-- Short summary of new features and bugfixes in the latest plugin version.
