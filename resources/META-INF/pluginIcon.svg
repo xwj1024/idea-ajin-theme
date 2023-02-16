@@ -10,8 +10,8 @@
               x="2" y="2" width="36" height="36"
               rx="3" ry="3"/>
         <text x="5" y="19"
-              font-family="Xingkai SC, Helvetica, sans-serif"
-              font-size="12px"
+              font-family="Xingkai SC, Helvetica, Jetbrains Mono"
+              font-size="10px"
               letter-spacing="0.1"
               fill="#FFFFFF">
             <tspan x="5" y="15">Ajin</tspan>
