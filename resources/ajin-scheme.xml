@@ -424,7 +424,7 @@
     </option>
     <option name="DEFAULT_METADATA">
       <value>
-        <option name="FOREGROUND" value="ffc86e" />
+        <option name="FOREGROUND" value="bbb529" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -1383,7 +1383,7 @@
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="e88c00" />
+        <option name="FOREGROUND" value="a8c023" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
