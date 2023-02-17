@@ -5,4 +5,4 @@
 ![ajin-theme.png](screenshots%20%2Fajin-theme.png)
 
 ### Special Thanks:
-- Gerry
+- Gerry Themes (Gerry)
