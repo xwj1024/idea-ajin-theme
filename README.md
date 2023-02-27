@@ -1,8 +1,9 @@
-# <div align="center">Ajin Theme</div>
+# <div align="center"><img src="resources/META-INF/pluginIcon.svg" width="50"> Ajin Theme</div>
 
-![pluginIcon.svg](resources%2FMETA-INF%2FpluginIcon.svg)
+![ajin-theme.png](screenshots/ajin-theme.png)
 
-![ajin-theme.png](screenshots%20%2Fajin-theme.png)
+<hr>
 
 ### Special Thanks:
+
 - <a href="https://github.com/gerryhjs/gerry-themes">Gerry Themes (Gerry)</a>
