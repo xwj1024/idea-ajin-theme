@@ -4,5 +4,9 @@
   "author": "Ajin",
   "editorScheme": "/ajin-scheme.xml",
   "ui": {
+    "*": {
+      "background": "#2b2d30",
+      "foreground": "#dfe1e5"
+    }
   }
 }
